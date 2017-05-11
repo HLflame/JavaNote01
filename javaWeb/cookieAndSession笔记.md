@@ -22,6 +22,10 @@
 ## cookie
 -	cookie客户端技术
 -	将数据保存到客户端浏览器
+-	Cookie技术的使用
+	-	向浏览器保存数据:
+		-	HttpServletResponse有一个方法:
+			-	void addCookie(Cookie cookie);
 ## Session
 -	Session服务器端技术
 -	将数据保存到服务器端
