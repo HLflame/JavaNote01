@@ -26,6 +26,7 @@
 	-	向浏览器保存数据:
 		-	HttpServletResponse有一个方法:
 			-	void addCookie(Cookie cookie);
+	-	获得浏览器带过来的Cookie:
 ## Session
 -	Session服务器端技术
 -	将数据保存到服务器端
